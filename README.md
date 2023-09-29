@@ -21,7 +21,6 @@ Um mergulho profundo no mundo do ELK (Elasticsearch, Logstash e Kibana), uma pod
 - Noções de Amostragem com Python.
 - Testes de Hipóteses com Python.
 - Análise de Correlação e Associação com Python.
-- Limpeza e Normalização de Dados
 - Limpeza e normalização de dados com Python.
 - Análise Avançada de Dados
 - Mineração de Textos.
